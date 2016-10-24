@@ -1,6 +1,6 @@
 {
   "name": "center-bg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set any size image to div background with center alignment",
   "main": "center-bg.js",
   "scripts": {
