@@ -17,9 +17,9 @@ Set any size image to div background with center alignment
   }
 </style>
 
-<div class='box' bg='./1.png'></div>
-<div class='box' bg='./2.png'></div>
-<div class='box' bg='./3.png'></div>
+<div class='box' src='./1.png'></div>
+<div class='box' src='./2.png'></div>
+<div class='box' src='./3.png'></div>
 
 <script src='./center-bg.js'></script>
 <script> center_bg('box'); </script>
