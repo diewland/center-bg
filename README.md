@@ -1,4 +1,7 @@
 # center-bg
+[![npm](https://img.shields.io/npm/v/center-bg.svg)](https://www.npmjs.com/package/center-bg)
+![license](https://img.shields.io/github/license/diewland/center-bg.svg)
+
 Set any size image to div background with center alignment
 
 ### Install
